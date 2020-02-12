@@ -10,5 +10,6 @@ console.log(imc)
 if (imc >= 30) {
   console.log(`${nome} está acima do peso`)
 
-}else 
+}else { 
   console.log(`${nome} não está acima do peso`)
+}
